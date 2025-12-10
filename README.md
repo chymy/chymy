@@ -1,5 +1,5 @@
 
-![Chymy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chymy)
+![Chymy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chymy&theme=github)
 
 <!--
 **chymy/chymy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
